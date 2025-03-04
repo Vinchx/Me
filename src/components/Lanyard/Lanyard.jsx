@@ -26,7 +26,7 @@ import * as THREE from "three";
 extend({ MeshLineGeometry, MeshLineMaterial });
 
 export default function Lanyard({
-  position = [0, 0, 20],
+  position = [0, 0, 22],
   gravity = [0, -30, 0],
   fov = 20,
   transparent = true,

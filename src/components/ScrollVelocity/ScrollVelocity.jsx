@@ -30,7 +30,7 @@ function useElementWidth(ref) {
 export const ScrollVelocity = ({
   scrollContainerRef,
   texts = ['Newbie Frontend Developer','newbie Backend Developer'],
-  velocity = 50,
+  velocity = 20,
   className = "",
   damping = 50,
   stiffness = 400,
